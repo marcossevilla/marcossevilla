@@ -13,10 +13,6 @@ I'm Marcos. I work with Flutter at [Namutek](https://www.namutek.com), a fintech
 - 😄  Pronouns: He/Him
 - ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged 🤙
 
-<a href="https://github.com/marcossevilla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcossevilla&theme=light&hide_langs_below=1" />
-</a>
-
 ## Some of my go-to weapons...
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
