@@ -5,10 +5,10 @@
 [![LinkedIn: Marcos Sevilla](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/marcos-s-5b8515b8/)
 
 - 🦄  I work as an Engineer at [Very Good Ventures](https://verygood.ventures/)
-- 🌱  I’m currently writing a series of [CLEAN architecture articles](https://marcossevilla.medium.com/un-flutter-m%C3%A1s-limpio-vol-0-cleandex-31cf12fc665d) applied to Dart and Flutter
 - 🗣  I organize my local GDG and Flutter communities
 - 📫  Get in touch with me on Twitter [@MarcosJSevilla](https://twitter.com/MarcosJSevilla)
 - 👾  I have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/c/noscopedevs), for Spanish speakers
+- 🌱  I’m currently writing a series of [CLEAN architecture articles](https://marcossevilla.medium.com/un-flutter-m%C3%A1s-limpio-vol-0-cleandex-31cf12fc665d) applied to Dart and Flutter
 - 😄  Pronouns: He/Him
 - ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged 🤙
 
