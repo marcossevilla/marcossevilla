@@ -6,7 +6,7 @@
 
 - 🦄  I work as an Engineer at [Very Good Ventures](https://verygood.ventures/)
 - 🌱  I’m currently writing a series of [CLEAN architecture articles](https://marcossevilla.medium.com/un-flutter-m%C3%A1s-limpio-vol-0-cleandex-31cf12fc665d) applied to Dart and Flutter
-- 🗣  I organize my local GDG and Flutter communities in Nicaragua
+- 🗣  I organize my local GDG and Flutter communities
 - 📫  Get in touch with me on Twitter [@MarcosJSevilla](https://twitter.com/MarcosJSevilla)
 - 👾  I have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/c/noscopedevs), for Spanish speakers
 - 😄  Pronouns: He/Him
