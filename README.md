@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Marcos
 
 [![Twitter: MarcosJSevilla](https://img.shields.io/twitter/follow/MarcosJSevilla?style=social)](https://twitter.com/MarcosJSevilla)
 [![GitHub marcossevilla](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/marcossevilla)
 [![LinkedIn: Marcos Sevilla](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/marcos-s-5b8515b8/)
 
-I'm Marcos. I work with Flutter professionally. I'm in my last year of Computer Science. I organize my local GDG and Flutter communities in Nicaragua. Also have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ), for Spanish-speaking people.
-
-- 🔭  I’m currently working on a series of CLEAN architecture articles applied to Flutter
-- 🌱  I’m currently learning about code coverage
-- 💬  You can ask me about Flutter and Dart, but I enjoy talking about everything tech-related
+- 🔭  I work as an Engineer at [Very Good Ventures](https://verygood.ventures/)
+- 🌱  I’m currently writing a series of [CLEAN architecture articles](https://marcossevilla.medium.com/un-flutter-m%C3%A1s-limpio-vol-0-cleandex-31cf12fc665d) applied to Dart and Flutter
+- 🗣  I organize my local GDG and Flutter communities in Nicaragua
 - 📫  Get in touch with me on Twitter [@MarcosJSevilla](https://twitter.com/MarcosJSevilla)
+- 👾  I have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/c/noscopedevs), for Spanish speakers
 - 😄  Pronouns: He/Him
 - ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged 🤙
 
