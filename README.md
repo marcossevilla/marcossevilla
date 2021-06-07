@@ -1,8 +1,13 @@
-### Hi there 👋 I'm Marcos
+# Marcos Sevilla
+## Engineer, Very Good Ventures
 
 [![Twitter: MarcosJSevilla](https://img.shields.io/twitter/follow/MarcosJSevilla?style=social)](https://twitter.com/MarcosJSevilla)
 [![GitHub marcossevilla](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/marcossevilla)
 [![LinkedIn: Marcos Sevilla](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/marcos-s-5b8515b8/)
+
+[![Very Good Ventures](https://github.com/VGVentures/Very-Good-Brand/raw/main/logos/icon-unicorn/unicorn-vgv-black-inset-round.png)](https://verygood.ventures)
+
+---
 
 - 🦄  I work as an Engineer at [Very Good Ventures](https://verygood.ventures/)
 - 🗣  I organize my local GDG and Flutter communities
