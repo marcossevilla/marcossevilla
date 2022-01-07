@@ -24,6 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 [![Marcos' Github Stats](https://github-readme-stats.vercel.app/api?username=marcossevilla&count_private=true&theme=default&show_icons=true)](https://github.com/marcossevilla)
+
 [logo_black]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_black.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
 [very_good_ventures_link_dark]: https://verygood.ventures#gh-dark-mode-only
