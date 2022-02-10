@@ -3,7 +3,7 @@
 
 [![Twitter: MarcosJSevilla](https://img.shields.io/twitter/follow/MarcosJSevilla?style=social)](https://twitter.com/MarcosJSevilla)
 [![GitHub marcossevilla](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/marcossevilla)
-[![LinkedIn: Marcos Sevilla](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/marcos-s-5b8515b8/)
+[![LinkedIn: Marcos Sevilla](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/marcossevilla/)
 
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
