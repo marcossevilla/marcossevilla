@@ -8,13 +8,13 @@
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-- 🦄  I work as an Engineer at [Very Good Ventures](https://verygood.ventures/)
-- 🗣  I organize my local GDG and Flutter communities
-- 📫  Get in touch with me on Twitter [@MarcosJSevilla](https://twitter.com/MarcosJSevilla)
-- 👾  I have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/c/noscopedevs), for Spanish speakers
-- 🌱  I’m currently writing a series of [CLEAN architecture articles](https://marcossevilla.medium.com/un-flutter-m%C3%A1s-limpio-vol-0-cleandex-31cf12fc665d) applied to Dart and Flutter
-- 😄  Pronouns: He/Him
-- ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged 🤙
+- 🦄  I work as an Engineer at [Very Good Ventures](https://verygood.ventures/).
+- 🗣  I organize my local GDG and Flutter communities.
+- 📫  Get in touch with me on Twitter [@MarcosJSevilla](https://twitter.com/MarcosJSevilla).
+- 👾  I have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/c/noscopedevs), for Spanish speakers.
+- 🌱  I’m currently writing a series of [CLEAN architecture articles](https://marcossevilla.dev/series/cleaner-flutter) applied to Dart and Flutter.
+- 😄  Pronouns: He/Him.
+- ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged.
 
 ## Some of my go-to weapons...
 
