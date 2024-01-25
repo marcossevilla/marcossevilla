@@ -1,5 +1,5 @@
 # Marcos Sevilla
-## Engineer, Very Good Ventures
+## Senior Engineer, Very Good Ventures
 
 [![Twitter: MarcosJSevilla](https://img.shields.io/twitter/follow/MarcosJSevilla?style=social)](https://twitter.com/MarcosJSevilla)
 [![GitHub marcossevilla](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/marcossevilla)
