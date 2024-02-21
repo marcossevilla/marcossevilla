@@ -9,10 +9,10 @@
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
 - 🦄  I work as an Engineer at [Very Good Ventures](https://verygood.ventures/).
-- 🗣  I organize my local GDG and Flutter communities.
+- 🗣  I do talks for GDG and Flutter communities.
 - 📫  Get in touch with me on Twitter [@MarcosJSevilla](https://twitter.com/MarcosJSevilla).
 - 👾  I have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/c/noscopedevs), for Spanish speakers.
-- 🌱  I’m currently writing a series of [CLEAN architecture articles](https://marcossevilla.dev/series/cleaner-flutter) applied to Dart and Flutter.
+- 🌱  I’m currently learning native iOS development with SwiftUI.
 - 😄  Pronouns: He/Him.
 - ⚡ Fun fact: I once cut my hand days before a workshop and had to code bandaged.
 
