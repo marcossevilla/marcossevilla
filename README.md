@@ -1,12 +1,12 @@
 # Marcos Sevilla
-## Senior Engineer, Very Good Ventures
+## Technical Delivery Lead, Very Good Ventures
 
 [![GitHub marcossevilla](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/marcossevilla)
 [![LinkedIn: Marcos Sevilla](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/marcossevilla/)
 [![Twitter: MarcosJSevilla](https://img.shields.io/twitter/follow/MarcosJSevilla?style=social)](https://twitter.com/MarcosJSevilla)
 [![Bluesky: marcossevilla.dev](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/marcossevilla.dev)
 
-- 🦄  I work as a Senior Engineer at [Very Good Ventures](https://verygood.ventures/).
+- 🦄  I work as a Tech Lead at [Very Good Ventures](https://verygood.ventures/).
 - 🗣  I do talks for GDG and Flutter communities.
 - 📫  Get in touch with me on Twitter [@MarcosJSevilla](https://twitter.com/MarcosJSevilla).
 - 👾  I have a tech YouTube channel called [NoScopeDevs](https://www.youtube.com/c/noscopedevs), for Spanish speakers.
